@@ -1,0 +1,5 @@
+#Compile files
+target/
+
+#IntelliJ files
+*.iml
